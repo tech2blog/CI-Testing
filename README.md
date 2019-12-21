@@ -1,2 +1,1 @@
-# CI-Testing
-Travis Testing
+# go-example
